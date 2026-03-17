@@ -11,7 +11,7 @@ The system uses **MediaPipe** to detect hand landmarks and a **Random Forest cla
 * OpenCV
 * MediaPipe
 * Scikit-learn
-
+  
 ## Features
 
 * Real-time hand tracking
